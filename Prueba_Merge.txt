@@ -1,5 +1,0 @@
-header
-body
-body 2
-body 3
-footer
